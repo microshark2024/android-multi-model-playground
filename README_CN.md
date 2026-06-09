@@ -1,5 +1,7 @@
 # Android 多模型探索器 (Android Multi-model Playground)
 
+[English](README.md) | [简体中文]
+
 一个基于 Jetpack Compose 构建的 Android 应用程序，用于测试、玩耍和体验各种 AI 模型。它支持跨不同 AI 提供商的文本/对话、图像生成和视频生成。
 
 ## 功能特性
@@ -10,7 +12,7 @@
 - ⚙️ **灵活的模型配置 (Model Configuration)**：
   - 支持多个 AI 提供商（Gemini、OpenAI 兼容接口、自定义端点）。
   - 定义自定义模型类型（文本、图像、视频）。
-  - 安全地本地存储 API 密钥和 Base URL。
+  - 安全地本地存储 API 密钥 and Base URL。
 
 ## 技术栈
 

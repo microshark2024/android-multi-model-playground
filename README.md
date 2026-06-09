@@ -1,5 +1,7 @@
 # Android Multi-model Playground
 
+[English] | [简体中文](README_CN.md)
+
 An Android application built with Jetpack Compose designed for testing, playing, and interacting with various AI models. It provides support for both text/chat, image generation, and video generation across different AI providers.
 
 ## Features
